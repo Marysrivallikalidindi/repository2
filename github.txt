@@ -1,0 +1,55 @@
+https://github.com/Marysrivallikalidindi/myrepo1.git
+
+Linux linuxos
+
+git gitbash
+
+changes ---adding modifying deleting 
+
+local to remote
+working directory(changes)---> staging area-->Commit stage-->push to GitHub
+git clone URL
+git add . WD --SA
+git commit -m "cmessge" SA---CS
+git push origin branchname---CS--GitHub
+
+git status ---- it is the command used to check whether the changes are in WD or staging area 
+
+WD----untracked or changes to be staged
+SA----changes to be committed
+
+git add singlefile
+git add multiple files
+git add allthechanges
+
+
+what is difference between DVCS and CVCS tool
+
+
+DVCS: we can get the working copy of the source code to our local system
+CVCS: we cannot 
+
+
+
+GitHub account --->
+
+
+GitHub commands
+
+
+
+
+file1 and file2---git add file1 file2---file1,2(SA) 3to5 WD
+
+all the changes ---git add .---file1 to file5(SA)
+
+
+How can you check the commit stage
+
+git log
+
+
+untracked
+changes are not staged
+
+
